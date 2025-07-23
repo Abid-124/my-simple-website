@@ -1,0 +1,14 @@
+div {
+    border: 1px solid #d31515;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+h3 {
+    color: #333;
+}
+
+p {
+    font-size: 14px;
+    line-height: 1.5;
+}
